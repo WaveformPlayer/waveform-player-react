@@ -1,6 +1,6 @@
 <div align="center">
 
-# Waveform Player for React
+# WaveformPlayer for React
 
 **A React component wrapper for [`@arraypress/waveform-player`](https://www.npmjs.com/package/@arraypress/waveform-player).**
 Typed props for every option, an imperative ref handle, and SSR-safe dynamic loading.
