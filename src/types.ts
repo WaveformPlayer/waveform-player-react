@@ -21,7 +21,7 @@
  *   - A `WaveformPlayerHandle` exposed via `ref` for imperative
  *     control (`loadTrack`, `seekTo`, `setVolume`, etc.).
  *
- * @see {@link https://github.com/arraypress/waveform-player} — core library
+ * @see {@link https://github.com/WaveformPlayer/waveform-player} — core library
  */
 import type {
 	WaveformPlayer,
